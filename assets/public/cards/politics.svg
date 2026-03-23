@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+  <rect width="600" height="300" fill="#211810"/>
+  <circle cx="130" cy="150" r="95" fill="#f2a500" opacity="0.3"/>
+  <path d="M200 80h310v140H200z" fill="#111" stroke="#f2a500" stroke-width="4"/>
+  <text x="355" y="165" fill="#f3d08e" font-family="sans-serif" font-size="40" text-anchor="middle">Politics</text>
+</svg>
