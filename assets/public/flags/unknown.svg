@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 48" role="img" aria-labelledby="title">
+  <title>Unknown flag</title>
+  <rect width="64" height="48" rx="4" fill="#2a2018"/>
+  <rect x="2" y="2" width="60" height="44" rx="3" fill="#17110d" stroke="#6f5121" stroke-width="2"/>
+  <path d="M18 10v28" stroke="#d9b067" stroke-width="3" stroke-linecap="round"/>
+  <path d="M20 11c10 0 11 4 18 4s8-4 14-4v14c-6 0-7 4-14 4s-8-4-18-4Z" fill="#8f6930"/>
+  <text x="32" y="39" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#f2ddab" letter-spacing="1.4">UNK</text>
+</svg>
