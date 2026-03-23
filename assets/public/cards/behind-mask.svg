@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+  <defs>
+    <linearGradient id="a" x1="0" x2="1">
+      <stop offset="0%" stop-color="#1f1b18"/>
+      <stop offset="100%" stop-color="#3b2b1a"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="300" fill="url(#a)"/>
+  <circle cx="470" cy="150" r="116" fill="#f2a500" opacity="0.25"/>
+  <path d="M150 88h170l44 62-44 62H150l-44-62z" fill="#0e0d0b" stroke="#f2a500" stroke-width="4"/>
+  <text x="300" y="170" fill="#f8d895" font-family="sans-serif" font-size="36" text-anchor="middle">Behind The Mask</text>
+</svg>
